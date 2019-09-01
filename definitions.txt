@@ -1,0 +1,1119 @@
+Castigated - verb (used with object),
+	* to criticize or reprimand severely.
+		ex. 
+	* to punish in order to correct.
+		ex. 
+
+Deified - verb (used with object),
+	* to make a god of; exalt to the rank of a deity deity 
+		ex. to deify a beloved king.
+	* to adore or regard as a deity 
+		ex. to deify wealth.
+
+Lascivious - adjective
+	* inclined to lustfulness; wanton; lewd: 
+		ex. a lascivious, girl-chasing old man.
+	* arousing sexual desire: 
+		ex. lascivious photographs.
+	* indicating sexual interest or expressive of lust or lewdness: 
+		ex. a lascivious gesture.
+
+Preternatural - adjective
+	* out of the ordinary course of nature; exceptional or abnormal: 
+		ex. preternatural powers.
+	* outside of nature; supernatural.
+		ex. 
+
+Preordained - verb (used with object)
+	* to 
+		ex. ordain
+
+Pithy - adjective,
+	* brief, forceful, and meaningful in expression; full of vigor, substance, or meaning; terse; forcible: 
+		ex. a pithy observation.
+	* of, like, or abounding in 
+		ex. pith
+
+cannot concatenate 'str' and 'NoneType' objectsPithy - adjective,
+	* brief, forceful, and meaningful in expression; full of vigor, substance, or meaning; terse; forcible: 
+		ex. a pithy observation.
+	* of, like, or abounding in 
+		ex. pith
+
+Indemnify - verb (used with object),
+	* to compensate for damage or loss sustained, expense incurred, etc.
+		ex. 
+	* to guard or secure against anticipated loss; give security against (future damage or liability).
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsIndemnify - verb (used with object),
+	* to compensate for damage or loss sustained, expense incurred, etc.
+		ex. 
+	* to guard or secure against anticipated loss; give security against (future damage or liability).
+		ex. 
+
+Quotidian - adjective
+	* daily: 
+		ex. a quotidian report.
+	* usual or customary; everyday: 
+		ex. quotidian needs.
+	* ordinary; commonplace: 
+		ex. paintings of no more than quotidian artistry.
+	* (of a fever, ague, etc.) characterized by paroxysms that recur daily.
+		ex. 
+
+Caustic - adjective
+	* capable of burning, corroding, or destroying living tissue.
+		ex. 
+	* severely critical or sarcastic: 
+		ex. a caustic remark.
+
+Vicissitude - noun
+	* a change or variation occurring in the course of something.
+		ex. 
+	* interchange or alternation, as of states or things.
+		ex. 
+	*  
+		ex. vicissitudes,
+	* regular change or succession of one state or thing to another.
+		ex. 
+	* change; mutation; mutability.
+		ex. 
+
+Akimbo - adjective, adverb
+	* with hand on hip and elbow bent outward: 
+		ex. to stand with arms akimbo.
+
+Subservient - adjective
+	* serving or acting in a subordinate capacity; subordinate.
+		ex. 
+	* servile; excessively submissive; obsequious: 
+		ex. subservient persons; subservient conduct.
+	* useful in promoting a purpose or end.
+		ex. 
+
+askance - adverb
+	* with suspicion, mistrust, or disapproval: 
+		ex. He looked askance at my offer.
+	* with a side glance; sidewise; obliquely.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsaskance - adverb
+	* with suspicion, mistrust, or disapproval: 
+		ex. He looked askance at my offer.
+	* with a side glance; sidewise; obliquely.
+		ex. 
+
+lackey - noun,
+	* a servile follower; toady.
+		ex. 
+	* a footman or liveried manservant.
+		ex. 
+
+demarcate - verb (used with object),
+	* to determine or mark off the boundaries or limits of: 
+		ex. to demarcate a piece of property.
+	* to separate distinctly: 
+		ex. to demarcate the lots with fences.
+
+cannot concatenate 'str' and 'NoneType' objectsdemarcate - verb (used with object),
+	* to determine or mark off the boundaries or limits of: 
+		ex. to demarcate a piece of property.
+	* to separate distinctly: 
+		ex. to demarcate the lots with fences.
+
+improvident - adjective
+	* not 
+		ex. provident
+	* neglecting to provide for future needs.
+		ex. 
+
+taciturn - adjective
+	* inclined to silence; reserved in speech; reluctant to join in conversation.
+		ex. 
+	* dour, stern, and silent in expression and manner.
+		ex. 
+
+dissolute - adjective
+	* indifferent to moral restraints; given to immoral or improper conduct; licentious; dissipated.
+		ex. 
+
+acerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+inimical - adjective
+	* adverse in tendency or effect; unfavorable; harmful: 
+		ex. a climate inimical to health.
+	* unfriendly; hostile: 
+		ex. a cold, inimical gaze.
+
+pallid - adjective
+	* pale; faint or deficient in color; wan: 
+		ex. a pallid countenance.
+	* lacking in vitality or interest: 
+		ex. a pallid musical performance.
+
+aghast - adjective
+	* struck with overwhelming shock or amazement; filled with sudden fright or horror: 
+		ex. They stood aghast at the sight of the plane crashing.
+
+impecunious - adjective
+	* having little or no money; penniless; poor.
+		ex. 
+
+grandiloquent - adjective
+	* speaking or expressed in a lofty style, often to the point of being pompous or bombastic.
+		ex. 
+
+cajole - verb (used with or without object),
+	* to persuade by flattery or promises; wheedle; coax.
+		ex. 
+
+mendaciously - adjective
+	* telling lies, especially habitually; dishonest; lying; untruthful: 
+		ex. a mendacious person.
+	* false or untrue: 
+		ex. a mendacious report.
+
+roundly - adverb
+	* in a 
+		ex. round
+	* vigorously or briskly.
+		ex. 
+	* outspokenly, severely, or unsparingly.
+		ex. 
+	* completely or fully.
+		ex. 
+	* in 
+		ex. round
+
+No part of speech found for: panned
+roundly - adverb
+	* in a 
+		ex. round
+	* vigorously or briskly.
+		ex. 
+	* outspokenly, severely, or unsparingly.
+		ex. 
+	* completely or fully.
+		ex. 
+	* in 
+		ex. round
+
+venerated - verb (used with object),
+	* to regard or treat with reverence; revere.
+		ex. 
+
+insouciance - noun
+	* the quality of being 
+		ex. insouciant
+
+profundity - noun,
+	* the quality or state of being 
+		ex. profound
+	*  Usually 
+		ex. profundities.
+	* a profoundly deep place; abyss.
+		ex. 
+
+listlessly - adjective
+	* having or showing little or no interest in anything; languid; spiritless; indifferent: 
+		ex. a listless mood; a listless handshake.
+
+cannot concatenate 'str' and 'NoneType' objectslistlessly - adjective
+	* having or showing little or no interest in anything; languid; spiritless; indifferent: 
+		ex. a listless mood; a listless handshake.
+
+homily - noun,
+	* a sermon, usually on a Biblical topic and usually of a nondoctrinal nature.
+		ex. 
+	* an admonitory or moralizing discourse.
+		ex. 
+	* an inspirational saying or cliché.
+		ex. 
+
+anachronistically - adjective
+	* pertaining to or containing an 
+		ex. anachronism
+
+providential - adjective
+	* of, relating to, or resulting from divine providence 
+		ex. providential care.
+	* opportune, fortunate, or lucky: 
+		ex. a providential event.
+
+simpatico - adjective
+	* congenial or like-minded; likable: 
+		ex. I find our new neighbor simpatico in every respect.
+
+inured - verb (used with object),
+	* to accustom to hardship, difficulty, pain, etc.; toughen or harden; habituate (usually followed by to 
+		ex. inured to cold.
+
+maudlin - adjective
+	* tearfully or weakly emotional; foolishly sentimental: 
+		ex. a maudlin story of a little orphan and her lost dog.
+	* foolishly or mawkishly sentimental because of drunkenness.
+		ex. 
+
+syncopated - adjective
+	* marked by syncopation 
+		ex. syncopated rhythm.
+	* cut short; abbreviated.
+		ex. 
+
+agglomerated - verb (used with or without object),
+	* to collect or gather into a cluster or mass.
+		ex. 
+
+hardy - adjective,
+	* capable of enduring fatigue, hardship, exposure, etc.; sturdy; strong: 
+		ex. hardy explorers of northern Canada.
+	* (of plants) able to withstand the cold of winter in the open air.
+		ex. 
+	* requiring great physical courage, vigor, or endurance: 
+		ex. the hardiest sports.
+	* bold or daring; courageous: 
+		ex. hardy soldiers.
+	* unduly bold; presumptuous; foolhardy.
+		ex. 
+
+inveigle - verb (used with object),
+	* to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into 
+		ex. to inveigle a person into playing bridge.
+	* to acquire, win, or obtain by beguiling talk or methods (usually followed by from away 
+		ex. to inveigle a theater pass from a person.
+
+cannot concatenate 'str' and 'NoneType' objectsinveigle - verb (used with object),
+	* to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into 
+		ex. to inveigle a person into playing bridge.
+	* to acquire, win, or obtain by beguiling talk or methods (usually followed by from away 
+		ex. to inveigle a theater pass from a person.
+
+No definition found for: presage
+inveigle - verb (used with object),
+	* to entice, lure, or ensnare by flattery or artful talk or inducements (usually followed by into 
+		ex. to inveigle a person into playing bridge.
+	* to acquire, win, or obtain by beguiling talk or methods (usually followed by from away 
+		ex. to inveigle a theater pass from a person.
+
+consanguineous - adjective
+	* having the same ancestry or descent; related by blood.
+		ex. 
+
+tremulous - adjective
+	* (of persons, the body, etc.) characterized by trembling, as from fear, nervousness, or weakness.
+		ex. 
+	* timid; timorous; fearful.
+		ex. 
+	* (of things) vibratory, shaking, or quivering.
+		ex. 
+	* (of writing) done with a trembling hand.
+		ex. 
+
+coltish - adjective
+	* playful; frolicsome.
+		ex. 
+	* of, relating to, or resembling a colt.
+		ex. 
+	* not trained or disciplined; unruly; wild.
+		ex. 
+
+beguiled - verb (used with object),
+	* to influence by trickery, flattery, etc.; mislead; delude.
+		ex. 
+	* to take away from by cheating or deceiving (usually followed by of 
+		ex. to be beguiled of money.
+	* to charm or divert: 
+		ex. a multitude of attractions to beguile the tourist.
+	* to pass (time) pleasantly: 
+		ex. beguiling the long afternoon with a good book.
+
+chary - adjective,
+	* cautious or careful; wary: 
+		ex. He was chary of investing in oil wells.
+	* shy; timid.
+		ex. 
+	* fastidious; choosy: 
+		ex. She is excessively chary about her friends.
+	* sparing (often followed by of 
+		ex. chary of his praise.
+
+sycophants - noun
+	* a self-seeking, servile flatterer; fawning parasite.
+		ex. 
+
+fecund - adjective
+	* producing or capable of producing offspring, fruit, vegetation, etc., in abundance; prolific; fruitful: 
+		ex. fecund parents; fecund farmland.
+	* very productive or creative intellectually: 
+		ex. the fecund years of the Italian Renaissance.
+
+forebears - noun
+	*  Usually 
+		ex. forebears
+
+harbingers - noun
+	* a person who goes ahead and makes known the approach of another; herald.
+		ex. 
+	* anything that foreshadows a future event; omen; sign: 
+		ex. Frost is a harbinger of winter.
+	* a person sent in advance of troops, a royal train, etc., to provide or secure lodgings and other accommodations.
+		ex. 
+
+recanted - verb (used with object)
+	* to withdraw or disavow (a statement, opinion, etc.), especially formally; retract.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsrecanted - verb (used with object)
+	* to withdraw or disavow (a statement, opinion, etc.), especially formally; retract.
+		ex. 
+
+No definition found for: stouter
+recanted - verb (used with object)
+	* to withdraw or disavow (a statement, opinion, etc.), especially formally; retract.
+		ex. 
+
+concomitant - adjective
+	* existing or occurring with something else, often in a lesser way; accompanying; concurrent: 
+		ex. an event and its concomitant circumstances.
+
+obsequious - adjective
+	* characterized by or showing servile complaisance or deference; fawning: 
+		ex. an obsequious bow.
+	* servilely compliant or deferential: 
+		ex. obsequious servants.
+	* obedient; dutiful.
+		ex. 
+
+No definition found for: sanguine
+obsequious - adjective
+	* characterized by or showing servile complaisance or deference; fawning: 
+		ex. an obsequious bow.
+	* servilely compliant or deferential: 
+		ex. obsequious servants.
+	* obedient; dutiful.
+		ex. 
+
+high-handed - adjective
+	* condescending or presumptuous; overbearing; arbitrary: 
+		ex. He has a highhanded manner.
+
+evanescent - adjective
+	* vanishing; fading away; fleeting.
+		ex. 
+	* tending to become imperceptible; scarcely perceptible.
+		ex. 
+
+incendiaries - adjective
+	* used or adapted for setting property on fire: 
+		ex. incendiary bombs.
+	* of or relating to the criminal setting on fire of property.
+		ex. 
+	* tending to arouse strife, sedition, etc.; inflammatory: 
+		ex. incendiary speeches.
+	* tending to inflame the senses: 
+		ex. an incendiary extravaganza of music and dance.
+
+banal - adjective
+	* devoid of freshness or originality; hackneyed; trite: 
+		ex. a banal and sophomoric treatment of courage on the frontier.
+
+No part of speech found for: verdany
+banal - adjective
+	* devoid of freshness or originality; hackneyed; trite: 
+		ex. a banal and sophomoric treatment of courage on the frontier.
+
+cannot concatenate 'str' and 'NoneType' objectsbanal - adjective
+	* devoid of freshness or originality; hackneyed; trite: 
+		ex. a banal and sophomoric treatment of courage on the frontier.
+
+facile - adjective
+	* moving, acting, working, proceeding, etc., with ease, sometimes with superficiality: 
+		ex. facile fingers; a facile mind.
+	* easily done, performed, used, etc.: 
+		ex. a facile victory; a facile method.
+	* easy or unconstrained, as manners or persons.
+		ex. 
+	* affable, agreeable, or complaisant; easily influenced: 
+		ex. a facile temperament; facile people.
+
+garrulous - adjective
+	* excessively talkative in a rambling, roundabout manner, especially about trivial matters.
+		ex. 
+	* wordy or diffuse: 
+		ex. a garrulous and boring speech.
+
+skittish - adjective
+	* apt to start or shy: 
+		ex. a skittish horse.
+	* restlessly or excessively lively: 
+		ex. a skittish mood.
+	* fickle; uncertain.
+		ex. 
+	* shy; coy.
+		ex. 
+
+facetious - adjective
+	* not meant to be taken seriously or literally: 
+		ex. a facetious remark.
+	* amusing; humorous.
+		ex. 
+	* lacking serious intent; concerned with something nonessential, amusing, or frivolous: 
+		ex. a facetious person.
+
+disingenuous - adjective
+	* lacking in frankness, candor, or sincerity; falsely or hypocritically ingenuous 
+		ex. Her excuse was rather disingenuous.
+
+polemical - noun
+	* a controversial argument, as one against some opinion, doctrine, etc.
+		ex. 
+	* a person who argues in opposition to another; controversialist.
+		ex. 
+
+deification - noun
+	* the act of 
+		ex. deifying
+	* the state of being 
+		ex. deified
+	* the result of deifying 
+		ex. Their gods were deifications of their ancient kings.
+
+excoriation - noun
+	* the act of 
+		ex. excoriating
+	* the state of being 
+		ex. excoriated
+	* an 
+		ex. excoriated
+
+calumnies - noun,
+	* a false and malicious statement designed to injure the reputation of someone or something: 
+		ex. The speech was considered a calumny of the administration.
+	* the act of uttering calumnies; slander; defamation.
+		ex. 
+
+obloquies - noun,
+	* censure, blame, or abusive language aimed at a person or thing, especially by numerous persons or by the general public.
+		ex. 
+	* discredit, disgrace, or bad repute resulting from public blame, abuse, or denunciation.
+		ex. 
+
+artifices - noun
+	* a clever trick or stratagem; a cunning, crafty device or expedient; wile.
+		ex. 
+	* trickery; guile; craftiness.
+		ex. 
+	* cunning; ingenuity; inventiveness: 
+		ex. a drawing-room comedy crafted with artifice and elegance.
+	* a skillful or artful contrivance or expedient.
+		ex. 
+
+parsimony - noun
+	* extreme or excessive economy or frugality; stinginess; niggardliness.
+		ex. 
+
+pulchritude - noun
+	* physical beauty; comeliness.
+		ex. 
+
+No part of speech found for: tortousness
+pulchritude - noun
+	* physical beauty; comeliness.
+		ex. 
+
+tepid - adjective
+	* moderately warm; lukewarm: 
+		ex. tepid water.
+	* characterized by a lack of force or enthusiasm: 
+		ex. tepid prose; the critics' tepid reception for the new play.
+
+indolence - noun
+	* the quality or state of being 
+		ex. indolent
+
+probity - noun
+	* integrity and uprightness; honesty.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsprobity - noun
+	* integrity and uprightness; honesty.
+		ex. 
+
+profligate - adjective
+	* utterly and shamelessly immoral or dissipated; thoroughly dissolute.
+		ex. 
+	* recklessly prodigal or extravagant.
+		ex. 
+
+antediluvian - adjective
+	* of or belonging to the period before the Flood. Gen. 7, 8.
+		ex. 
+	* very old, old-fashioned, or out of date; antiquated; primitive: 
+		ex. antediluvian ideas.
+
+ascetic - noun
+	* a person who dedicates his or her life to a pursuit of contemplative ideals and practices extreme self-denial or self-mortification for religious reasons.
+		ex. 
+	* a person who leads an austerely simple life, especially one who abstains from the normal pleasures of life or denies himself or herself material satisfaction.
+		ex. 
+	* (in the early Christian church) a monk; hermit.
+		ex. 
+
+exacting - adjective
+	* rigid or severe in demands or requirements: 
+		ex. an exacting teacher.
+	* requiring close application or attention: 
+		ex. an exacting task.
+	* given to or characterized by 
+		ex. exaction
+
+guileless - adjective
+	* free from 
+		ex. guile
+
+No part of speech found for: cpricious
+guileless - adjective
+	* free from 
+		ex. guile
+
+No part of speech found for: cannt
+guileless - adjective
+	* free from 
+		ex. guile
+
+unseemly - adjective,
+	* not seemly 
+		ex. an unseemly act; unseemly behavior.
+	* inappropriate for time or place: 
+		ex. an unseemly hour.
+
+desultory - adjective
+	* lacking in consistency, constancy, or visible order, disconnected; fitful: 
+		ex. desultory conversation.
+	* digressing from or unconnected with the main subject; random: 
+		ex. a desultory remark.
+
+brusque - adjective
+	* abrupt in manner; blunt; rough: 
+		ex. A brusque welcome greeted his unexpected return.
+
+cannot concatenate 'str' and 'NoneType' objectsbrusque - adjective
+	* abrupt in manner; blunt; rough: 
+		ex. A brusque welcome greeted his unexpected return.
+
+prudent - adjective
+	* wise or judicious in practical affairs; sagacious; discreet or circumspect; sober.
+		ex. 
+	* careful in providing for the future; provident: 
+		ex. a prudent decision.
+
+cannot concatenate 'str' and 'NoneType' objectsprudent - adjective
+	* wise or judicious in practical affairs; sagacious; discreet or circumspect; sober.
+		ex. 
+	* careful in providing for the future; provident: 
+		ex. a prudent decision.
+
+cannot concatenate 'str' and 'NoneType' objectsprudent - adjective
+	* wise or judicious in practical affairs; sagacious; discreet or circumspect; sober.
+		ex. 
+	* careful in providing for the future; provident: 
+		ex. a prudent decision.
+
+providential - adjective
+	* of, relating to, or resulting from divine providence 
+		ex. providential care.
+	* opportune, fortunate, or lucky: 
+		ex. a providential event.
+
+intrepidity - adjective
+	* resolutely fearless; dauntless: 
+		ex. an intrepid explorer.
+
+No part of speech found for: sangroid
+intrepidity - adjective
+	* resolutely fearless; dauntless: 
+		ex. an intrepid explorer.
+
+fascist - noun
+	* a person who believes in or sympathizes with 
+		ex. fascism
+	*  
+		ex. (
+	* a person who is dictatorial or has extreme right-wing views.
+		ex. 
+
+mercurial - adjective
+	* changeable; volatile; fickle; flighty; erratic: 
+		ex. a mercurial nature.
+	* animated; lively; sprightly; quick-witted.
+		ex. 
+	* pertaining to, containing, or caused by the metal 
+		ex. mercury
+	*  
+		ex. (
+	*  
+		ex. (
+
+vainglorious - adjective
+	* filled with or given to vainglory 
+		ex. a vainglorious actor.
+	* characterized by, showing, or proceeding from vainglory 
+		ex. a vainglorious estimate of one's ability.
+
+entreaty - noun,
+	* earnest request or petition; supplication.
+		ex. 
+
+brook - noun
+	* a small, natural stream of fresh water.
+		ex. 
+
+stopgap - noun
+	* something that fills the place of something else that is lacking; temporary substitute; makeshift: 
+		ex. Candles are a stopgap when the electricity fails.
+
+modicum - noun
+	* a moderate or small amount: 
+		ex. He hasn't even a modicum of common sense.
+
+No definition found for: paragon
+modicum - noun
+	* a moderate or small amount: 
+		ex. He hasn't even a modicum of common sense.
+
+consecration - noun
+	* the act of 
+		ex. consecrating
+	* the act of giving the sacramental character to the Eucharistic elements of bread and wine, especially in the Roman Catholic Church.
+		ex. 
+	* ordination to a sacred office, especially to the episcopate.
+		ex. 
+
+amity - noun
+	* friendship; peaceful harmony.
+		ex. 
+	* mutual understanding and a peaceful relationship, especially between nations; peace; accord.
+		ex. 
+
+solace - noun
+	* comfort in sorrow, misfortune, or trouble; alleviation of distress or discomfort.
+		ex. 
+	* something that gives comfort, consolation, or relief: 
+		ex. The minister's visit was the dying man's only solace.
+
+mores - plural noun
+	* folkways of central importance accepted without question and embodying the fundamental moral views of a group.
+		ex. 
+
+truisms - noun
+	* a self-evident, obvious truth.
+		ex. 
+
+distension - noun
+	* the act of distending 
+		ex. distended
+
+cannot concatenate 'str' and 'NoneType' objectsdistension - noun
+	* the act of distending 
+		ex. distended
+
+bucolic - adjective
+	* of or relating to shepherds; pastoral.
+		ex. 
+	* of, relating to, or suggesting an idyllic rural life.
+		ex. 
+
+tendentious - adjective
+	* having or showing a definite tendency 
+		ex. a tendentious novel.
+
+protean - adjective
+	* readily assuming different forms or characters; extremely variable.
+		ex. 
+	* changeable in shape or form, as an amoeba.
+		ex. 
+	* (of an actor or actress) versatile; able to play many kinds of roles.
+		ex. 
+	*  
+		ex. (
+
+quixotic - adjective
+	* extravagantly chivalrous or romantic; visionary, impractical, or impracticable.
+		ex. 
+	* impulsive and often rashly unpredictable.
+		ex. 
+	*  
+		ex. (
+
+parochial - adjective
+	* of, relating to, or financially supported by one or more church parishes: 
+		ex. parochial churches in Great Britain.
+	* of or relating to parochial schools or the education they provide.
+		ex. 
+	* very limited or narrow in scope or outlook; provincial: 
+		ex. parochial views; a parochial mentality.
+
+arcadian - adjective
+	* of 
+		ex. Arcadia
+	* rural, rustic, or pastoral, especially suggesting simple, innocent contentment.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsarcadian - adjective
+	* of 
+		ex. Arcadia
+	* rural, rustic, or pastoral, especially suggesting simple, innocent contentment.
+		ex. 
+
+hinterland - noun
+	*  Often 
+		ex. hinterlands.
+	* the land lying behind a coastal region.
+		ex. 
+	* an area or sphere of influence in the unoccupied interior claimed by the state possessing the coast.
+		ex. 
+	* an inland area supplying goods, especially trade goods, to a port.
+		ex. 
+
+tony - adjective,
+	* high-toned; stylish: 
+		ex. a tony nightclub.
+
+licentious - adjective
+	* sexually unrestrained; lascivious; libertine; lewd.
+		ex. 
+	* unrestrained by law or general morality; lawless; immoral.
+		ex. 
+	* going beyond customary or proper bounds or limits; disregarding rules.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectslicentious - adjective
+	* sexually unrestrained; lascivious; libertine; lewd.
+		ex. 
+	* unrestrained by law or general morality; lawless; immoral.
+		ex. 
+	* going beyond customary or proper bounds or limits; disregarding rules.
+		ex. 
+
+prudish - adjective
+	* excessively proper or modest in speech, conduct, dress, etc.
+		ex. 
+	* characteristic of a 
+		ex. prude
+
+incendiary - adjective
+	* used or adapted for setting property on fire: 
+		ex. incendiary bombs.
+	* of or relating to the criminal setting on fire of property.
+		ex. 
+	* tending to arouse strife, sedition, etc.; inflammatory: 
+		ex. incendiary speeches.
+	* tending to inflame the senses: 
+		ex. an incendiary extravaganza of music and dance.
+
+insipid - adjective
+	* without distinctive, interesting, or stimulating qualities; vapid: 
+		ex. an insipid personality.
+	* without sufficient taste to be pleasing, as food or drink; bland: 
+		ex. a rather insipid soup.
+
+effete - adjective
+	* lacking in wholesome vigor; degenerate; decadent: 
+		ex. an effete, overrefined society.
+	* exhausted of vigor or energy; worn out: 
+		ex. an effete political force.
+	* unable to produce; sterile.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectseffete - adjective
+	* lacking in wholesome vigor; degenerate; decadent: 
+		ex. an effete, overrefined society.
+	* exhausted of vigor or energy; worn out: 
+		ex. an effete political force.
+	* unable to produce; sterile.
+		ex. 
+
+acerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+cannot concatenate 'str' and 'NoneType' objectsacerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+No part of speech found for: halycon
+acerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+cannot concatenate 'str' and 'NoneType' objectsacerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+cannot concatenate 'str' and 'NoneType' objectsacerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+No definition found for: seething
+acerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+No definition found for: baying
+acerbic - adjective
+	* sour or astringent in taste: 
+		ex. Lemon juice is acerbic.
+	* harsh or severe, as of temper or expression: 
+		ex. acerbic criticism.
+
+iconoclasm - noun
+	* the action or spirit of iconoclasts.
+		ex. 
+
+redresses - verb (used with object)
+	* to 
+		ex. dress
+
+decamped - verb (used without object)
+	* to depart from a camp; to pack up equipment and leave a camping ground: 
+		ex. We decamped before the rain began.
+	* to depart quickly, secretly, or unceremoniously: 
+		ex. The band of thieves decamped in the night.
+
+congenial - adjective
+	* agreeable, suitable, or pleasing in nature or character: 
+		ex. congenial surroundings.
+	* suited or adapted in spirit, feeling, temper, etc.; compatible: 
+		ex. a congenial couple.
+
+No definition found for: fester
+congenial - adjective
+	* agreeable, suitable, or pleasing in nature or character: 
+		ex. congenial surroundings.
+	* suited or adapted in spirit, feeling, temper, etc.; compatible: 
+		ex. a congenial couple.
+
+vitreous - adjective
+	* of the nature of or resembling glass, as in transparency, brittleness, hardness, glossiness, etc.: 
+		ex. vitreous china.
+	* of or relating to glass.
+		ex. 
+	* obtained from or containing glass.
+		ex. 
+
+doting - adjective
+	* excessively fond: 
+		ex. doting parents.
+	* showing a decline of mental faculties, especially associated with old age; weak-minded; senile.
+		ex. 
+
+sea change - noun
+	* a striking change, as in appearance, often for the better.
+		ex. 
+	* any major transformation or alteration.
+		ex. 
+	* a transformation brought about by the sea.
+		ex. 
+
+helmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+No part of speech found for: ichoate
+helmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectshelmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectshelmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+No definition found for: piques
+helmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectshelmsmanship - noun,
+	* a person who steers a ship.
+		ex. 
+
+interlocutors - noun
+	* a person who takes part in a conversation or dialogue.
+		ex. 
+	* the man in the middle of the line of performers in a minstrel troupe, who acts as the announcer and banters with the end men.
+		ex. 
+	* a person who questions; interrogator.
+		ex. 
+
+No part of speech found for: ovtuse
+interlocutors - noun
+	* a person who takes part in a conversation or dialogue.
+		ex. 
+	* the man in the middle of the line of performers in a minstrel troupe, who acts as the announcer and banters with the end men.
+		ex. 
+	* a person who questions; interrogator.
+		ex. 
+
+genteel - adjective
+	* belonging or suited to polite society.
+		ex. 
+	* well-bred or refined; polite; elegant; stylish.
+		ex. 
+	* affectedly or pretentiously polite, delicate, etc.
+		ex. 
+
+populist - noun
+	* a member of the People's party.
+		ex. 
+	*  
+		ex. (
+
+No part of speech found for: explciate
+populist - noun
+	* a member of the People's party.
+		ex. 
+	*  
+		ex. (
+
+No part of speech found for: cranks
+populist - noun
+	* a member of the People's party.
+		ex. 
+	*  
+		ex. (
+
+ameliorate - verb (used with or without object),
+	* to make or become better, more bearable, or more satisfactory; improve: 
+		ex. strategies to ameliorate negative effects on the environment.
+
+cannot concatenate 'str' and 'NoneType' objectsameliorate - verb (used with or without object),
+	* to make or become better, more bearable, or more satisfactory; improve: 
+		ex. strategies to ameliorate negative effects on the environment.
+
+banality - noun,
+	* the condition or quality of being banal 
+		ex. the banality of everyday life.
+	* an instance of this: 
+		ex. We sat around the dinner table exchanging banalities.
+
+cannot concatenate 'str' and 'NoneType' objectsbanality - noun,
+	* the condition or quality of being banal 
+		ex. the banality of everyday life.
+	* an instance of this: 
+		ex. We sat around the dinner table exchanging banalities.
+
+gainsay - verb (used with object),
+	* to deny, dispute, or contradict.
+		ex. 
+	* to speak or act against; oppose.
+		ex. 
+
+ebullient - adjective
+	* overflowing with fervor, enthusiasm, or excitement; high-spirited: 
+		ex. The award winner was in an ebullient mood at the dinner in her honor.
+	* bubbling up like a boiling liquid.
+		ex. 
+
+quotidian - adjective
+	* daily: 
+		ex. a quotidian report.
+	* usual or customary; everyday: 
+		ex. quotidian needs.
+	* ordinary; commonplace: 
+		ex. paintings of no more than quotidian artistry.
+	* (of a fever, ague, etc.) characterized by paroxysms that recur daily.
+		ex. 
+
+copious - adjective
+	* large in quantity or number; abundant; plentiful: 
+		ex. copious amounts of food.
+	* having or yielding an abundant supply: 
+		ex. a copious larder; a copious harvest.
+	* exhibiting abundance or fullness, as of thoughts or words.
+		ex. 
+
+solvent - adjective
+	* able to pay all just debts.
+		ex. 
+	* having the power of dissolving; causing 
+		ex. solution
+
+supplants - verb (used with object)
+	* to take the place of (another), as through force, scheming, strategy, or the like.
+		ex. 
+	* to replace (one thing) by something else.
+		ex. 
+
+contrive - verb (used with object),
+	* to plan with ingenuity; devise; invent: 
+		ex. The author contrived a clever plot.
+	* to bring about or effect by a plan, scheme, or the like; manage: 
+		ex. He contrived to gain their votes.
+	* to plot (evil, treachery, etc.).
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectscontrive - verb (used with object),
+	* to plan with ingenuity; devise; invent: 
+		ex. The author contrived a clever plot.
+	* to bring about or effect by a plan, scheme, or the like; manage: 
+		ex. He contrived to gain their votes.
+	* to plot (evil, treachery, etc.).
+		ex. 
+
+fatuous - adjective
+	* foolish or inane, especially in an unconscious, complacent manner; silly.
+		ex. 
+	* unreal; illusory.
+		ex. 
+
+cannot concatenate 'str' and 'NoneType' objectsfatuous - adjective
+	* foolish or inane, especially in an unconscious, complacent manner; silly.
+		ex. 
+	* unreal; illusory.
+		ex. 
+
+tirade - noun
+	* a prolonged outburst of bitter, outspoken denunciation: 
+		ex. a tirade against smoking.
+	* a long, vehement speech: 
+		ex. a tirade in the Senate.
+	* a passage dealing with a single theme or idea, as in poetry: 
+		ex. the stately tirades of Corneille.
+
+affectless - adjective
+	* lacking feeling or emotion; indifferent to the suffering of others: 
+		ex. an affectless, futuristic drama in which the human characters are virtually robots.
+
+anathema - noun,
+	* a person or thing detested or loathed: 
+		ex. That subject is anathema to him.
+	* a person or thing accursed or consigned to damnation or destruction.
+		ex. 
+	* a formal ecclesiastical curse involving excommunication.
+		ex. 
+	* any imprecation of divine punishment.
+		ex. 
+	* a curse; execration.
+		ex. 
+
